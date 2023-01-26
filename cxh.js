@@ -57,4 +57,3 @@ function dechouxiang(s) {
 
 $("#create").removeAttr("disabled");
 $("#create").text("生成抽象话");
-
